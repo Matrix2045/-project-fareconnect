@@ -1,0 +1,16 @@
+{
+  "search.exclude": {
+    ".git": true,
+    "out": true,
+    "cache": true
+  },
+  "editor.formatOnSave": true,
+  "editor.rulers": [119],
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  },
+  "cSpell.words": ["curr", "Fname", "Invitable", "Pausable", "UUPS"]
+}

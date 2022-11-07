@@ -1,0 +1,9 @@
+[profile.default]
+solc_version = "0.8.16"
+optimizer_runs = 10_000
+
+[profile.ci]
+verbosity = 3
+
+[fuzz]
+runs = 512
